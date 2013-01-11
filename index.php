@@ -26,6 +26,8 @@
 <html>
 <link rel="stylesheet" href="/public/css/var_dumpling.css">
 <head>
+  <link rel="shortcut icon" href="/public/img/icon128.png" type="image/x-icon" />
+
   <title>Var_dumpling</title>
 </head>
 <body>
@@ -40,8 +42,12 @@
 
 
   <div id="details">
-    <div>YADA</div>
-    <button id="switch">Here</button>
+    <img id="icon" src="/public/img/icon48.png">
+    
+    <div id="title">
+      <h3>Turn off var_dumpling</h3>
+      <!-- <button id="switch">Here</button> -->
+    </div>
   </div>
   
 </body>
