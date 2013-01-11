@@ -1,0 +1,41 @@
+.string{
+  color:#090;
+  font-weight:bold;
+}
+
+.index{
+  font-weight: bold;
+}
+
+.int{
+  color:#900;
+  font-weight: bold;
+}
+
+.array{
+  font-weight: bold;
+  /*color:#009; */
+}
+
+.bool {
+  color:#230;
+}
+
+.object {
+  font-weight: bold;
+  /*color:#009;*/
+}
+
+#var_dump {
+  display: none;
+}
+
+#details {
+  position: absolute;
+  bottom:0;
+  right:0;
+  border-radius: 5px;
+  border-style:dashed;
+  width: 320px;
+  height:100px;
+}
