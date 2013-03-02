@@ -48,7 +48,7 @@
       'object(stdClass)#1 (10) { ["name"]=> string(14) "var_dumpling" ["about"]=> string(155) "A Google Chrome/FireFox extension that beautifies your var_dumps and makes them easier for humans to comprehend automatically. No pre tags and no libraries needed!" ["instructions"]=> array(2) { [0]=> string(39) "Install to your browser as an extension" [1]=> string(60) "Just var_dump and the response will be formated like this!" } ["version"]=> string(4) "beta" ["libraries"]=> bool(false) ["pre_tags"]=> NULL ["cost"]=> int(0) ["installation"]=> array(3) { ["github"]=> string(48) "https://github.com/alexnaspo/var_dumpling" ["chome_web_store"]=> string(12) "coming soon!" ["firefox_web_store"]=> string(12) "coming soon!" } ["support"]=> array(2) { ["browsers"]=> array(2) { ["chrome"]=> bool(true) ["firefox"]=> bool(true) } ["issues"]=> string(32) "Please create an issue on github" } ["creator"]=> array(3) { ["name"]=> string(10) "Alex Naspo" ["website"]=> string(13) "http://www.alexnaspo.com" ["github"]=> string(28) "https://github.com/alexnaspo" } }' ?>
     </div>
     <div class="var_dumpling">
-      <div class="element nestLevel0" style="padding-left:0px;"><span class="object">object(stdClass)#1 (10) {</span>
+      <div class="element nestLevel0" style="padding-left:0px;"><span class="object">object(stdClass)#1 (10) <span style="display:none">meta fix</span> {</span>
       </div>
       <div class="element nestLevel1" style="padding-left:10px;"><span class="index">["name"]</span>  <span class="string"> "var_dumpling"</span>
       </div>
