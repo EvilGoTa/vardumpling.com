@@ -10,7 +10,7 @@
           'cost' => 0,
           'installation' => array(
             'github' => 'https://github.com/alexnaspo/var_dumpling',
-            'chome_web_store' => 'coming soon!',
+            'chome_web_store' => 'https://chrome.google.com/webstore/detail/vardumpling/aikblkmigebodlhkdepmfmgdgmbokkdn',
             'firefox_web_store' => 'coming soon!'
           ),
           'support' => array(
@@ -73,7 +73,7 @@
       </div>
       <div class="element nestLevel2" style="padding-left:20px;"><span class="index">["github"]</span>  <span class="string link"> "https://github.com/alexnaspo/var_dumpling"</span>
       </div>
-      <div class="element nestLevel2" style="padding-left:20px;"><span class="index">["chome_web_store"]</span>  <span class="string"> "coming soon!"</span>
+      <div class="element nestLevel2" style="padding-left:20px;"><span class="index">["chome_web_store"]</span>  <span class="string link"> "https://chrome.google.com/webstore/detail/vardumpling/aikblkmigebodlhkdepmfmgdgmbokkdn" </span>
       </div>
       <div class="element nestLevel2" style="padding-left:20px;"><span class="index">["firefox_web_store"]</span>  <span class="string"> "coming soon!"</span>
       </div>
